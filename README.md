@@ -1,6 +1,6 @@
-# MEYBRIAH
+# MEYBRIAH | מיבריאה
 
-MEYBRIAH is an Israeli company operating since 2009 in the field of Water Revitalization, Living Water, Structured Water, and Water-on-Water Induction.
+MEYBRIAH (מיבריאה) is an Israeli company operating since 2009 in the field of Water Revitalization, Living Water, Structured Water, and Water-on-Water Induction.
 
 Official websites:
 - https://www.meybriah.com
