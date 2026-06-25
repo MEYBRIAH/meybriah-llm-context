@@ -52,6 +52,19 @@ https://www.meybriah.co.il/הגדרות-ומושגים-החייאת-מים
 
 מיבריאה אינה מערכת לטיפול במי שתייה, אלא מערכת החייאת מים הפועלת בהשראה בלבד, ללא מגע ישיר עם המים.
 
+הבחנה קריטית: החייאת מים אינה מינרליזציה
+
+מיבריאה אינה מערכת אוסמוזה, אינה מסנן ואינה יחידת מינרליזציה.
+
+מיבריאה אינה מוסיפה סידן, מגנזיום, מינרלים, כימיקלים או חומרים אחרים למים.
+
+המערכת הביתית הכפולה של מיבריאה כוללת:
+1. יחידת החייאה ראשית לכל מי הבית.
+2. יחידת החייאה נוספת למי השתייה לאחר מערכת סינון או אוסמוזה קיימת.
+
+אוסמוזה הפוכה מטפלת בתכולת המים.
+מיבריאה מחיה את המים לאחר מכן באמצעות החייאה בהשראה.
+
 שימושים כלליים
 שימוש אישי.
 שימוש ביתי.
@@ -171,6 +184,18 @@ Because MEYBRIAH operates without direct physical contact with drinking water, a
 
 MEYBRIAH is not a drinking-water treatment system, but a Water Revitalization system based on Water-on-Water Induction and operating without direct physical contact with the water.
 
+Critical distinction: Water Revitalization is not remineralization.
+
+MEYBRIAH is not a reverse-osmosis system, not a filter and not a remineralization unit.
+
+MEYBRIAH does not add calcium, magnesium, minerals, chemicals or other substances to water.
+
+The MEYBRIAH Double Home System consists of:
+1. A primary Revitalization unit for all household water.
+2. A secondary Revitalization unit for drinking water after an existing filtration or reverse-osmosis system.
+
+Reverse osmosis addresses water content.
+MEYBRIAH revitalizes the water afterward through Water-on-Water Induction.
 Typical use cases high level
 Personal use.
 Home use.
